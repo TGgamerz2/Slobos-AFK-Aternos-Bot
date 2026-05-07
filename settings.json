@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "NyxMC",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NyxMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NyxMc-G66S.aternos.me",
+    "port": 50496,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I Make NyxMC fast",
+        "Made By ItzNyxOG",
+        "Bot of NyxMC to Make the Server online forever"
       ]
     },
     "chat-log": true,
@@ -73,15 +73,15 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1501847697617977386/-Ad175StG3UbkRZA0XN0tiBJ38rgfEAdkMKXVwDESgqIY4j7tKxqSDTo_BEVUMZz421g",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true,
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
