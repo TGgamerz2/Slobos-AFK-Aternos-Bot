@@ -2,7 +2,7 @@
   "name": "NyxMC",
   "bot-account": {
     "username": "NyxMC",
-    "password": "",
+    "password": "NyxIsOG",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "NyxIsOG"
     },
     "anti-afk": {
       "enabled": true,
