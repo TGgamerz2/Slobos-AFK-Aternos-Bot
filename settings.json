@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NyxMc-G66S.aternos.me",
-    "port": 50496,
+    "ip": "nyxmc.playserver.pro",
+    "port": ,
     "version": "",
     "try-creative": false
   },
